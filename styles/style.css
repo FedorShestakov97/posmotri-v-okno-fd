@@ -307,10 +307,6 @@ ol {
   background-color: #545050;
 }
 
-.search-form__label:focus-visible {
-  outline: 1px solid #fff;
-}
-
 .content__card-link:focus {
   outline: none;
 }
